@@ -87,8 +87,8 @@ Para que CallMeBot funcione, sigue estos pasos:
 4. En el código:
    - En la línea `String phoneNumber = "+57..."`, escribe tu número (con código del país).
    - En la línea `String apiKey = "..."`, pega tu clave recibida.
-  
-     ![image](https://github.com/user-attachments/assets/dbb36592-0f13-4fa2-b5ba-0de3207cc355)
+
+![image](https://github.com/user-attachments/assets/1d71e1e9-626c-4e6e-a5a9-89cdb5cc599a)
 
 ---
 
