@@ -49,6 +49,8 @@ El sistema permite programar alertas diarias para recordar la toma de medicament
 
 ## Esquema de Conexiones (Figura N°1)
 
+![image](https://github.com/user-attachments/assets/6f9b691f-c20c-4f57-9282-9e878087499b)
+
 Cada LED está conectado a un pin digital de la ESP32 a través de una resistencia de 390 ohmios para limitar la corriente. La correspondencia entre pines y días es:
 
 | Día       | Pin ESP32 |
@@ -85,6 +87,8 @@ Para que CallMeBot funcione, sigue estos pasos:
 4. En el código:
    - En la línea `String phoneNumber = "+57..."`, escribe tu número (con código del país).
    - En la línea `String apiKey = "..."`, pega tu clave recibida.
+  
+     ![image](https://github.com/user-attachments/assets/dbb36592-0f13-4fa2-b5ba-0de3207cc355)
 
 ---
 
